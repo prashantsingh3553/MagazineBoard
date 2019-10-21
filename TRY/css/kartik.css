@@ -1,0 +1,42 @@
+.modal  {
+    /*   display: block;*/
+    padding-right: 0px;
+    background-color: transparent; 
+    }
+   
+    .modal-dialog {
+            top: 20%;
+                width: 60%;
+    position: relative;
+        }
+        .modal-content {
+                border-radius: 0px;
+                border: none;
+                top: 40%;
+            }
+            .modal-body {
+                    background-color: white;
+    color: black;
+                }
+.deep
+{
+    color : black;
+    font-size: 20pt;
+}
+.deep1
+{
+    color:blue;
+    font-family: cursive;
+    font-size: 22pt;
+}
+.deep10
+{
+     color:#f7f7ff;
+    font-family: cursive;
+    font-size: 32pt;
+}
+.deep111
+{
+    color : #ffffff;
+    font-size: 14pt;
+}
